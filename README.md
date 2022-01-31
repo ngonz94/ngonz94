@@ -6,6 +6,5 @@
 - 🌱 I’m currently learning OpenCV for robotics purposes
 - 👯 I’m looking to collaborate on robotics and C++ projects
 - 🤔 I’m looking for help with Python
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a drummer!
 
